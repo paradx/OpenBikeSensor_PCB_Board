@@ -22,12 +22,10 @@ Die aktuelle Versionsnummer des OpenBikeSensor Clasic PCB ist `1.0.0`. Den veral
 
 ### OpenBikeSensor Lite
 
-In naher Zukunft werden wir hier auch die PCB-Dateien des *OpenBikeSensor Lite*
-veröffentlichen. Dies ist ein reduzierter Hardwareaufbau, in welchem nur der
-ESP32, die zwei Sensormodule und ein Button enthalten sind, und welcher im
-Zusammenspiel mit einem Smartphone die restlichen Daten sammeln kann. Dieses
-Projekt ist zur Zeit in der Entwicklung und hoffentlich in der ersten
-Jahreshälfte 2023 benutzbar.
+Im Verzeichnis OpenBikeSensorLite findest du die Dateien für das Modell
+OpenBikeSensor Lite. Dieser OpenBikeSensor hat nur Messelektronik,
+Datenspeicher, Kommunikation und ein Großteil der Programmlogik läuft
+auf dem Handy in der SimRa App.
 
 ### OpenBikeSensor Pro
 
